@@ -1,0 +1,16 @@
+input{
+    width:500px;
+    
+}
+
+canvas{
+    border-color: blueviolet;
+    box-shadow: 5px 5px coral;
+    background-color: beige;
+}
+
+div{
+    color:rgb(0, 0, 0);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(103, 153, 197);
+}
